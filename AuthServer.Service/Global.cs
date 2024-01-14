@@ -1,0 +1,11 @@
+﻿global using AuthServer.Core.GenericServices;
+global using AuthServer.Core.Repository;
+global using AuthServer.Core.UnitOfWork;
+global using SharedLibrary.DTOs;
+global using System.Linq.Expressions;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.IdentityModel.Tokens;
+global using System.Text;
+global using AuthServer.Core.DTOs;
+global using AuthServer.Core.Models;
+global using AutoMapper;

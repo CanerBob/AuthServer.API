@@ -1,0 +1,14 @@
+﻿global using AuthServer.Core.GenericServices;
+global using AuthServer.Core.Repository;
+global using AuthServer.Core.UnitOfWork;
+global using AuthServer.Repository;
+global using AuthServer.Repository.Repositories;
+global using AuthServer.Service.Services;
+global using Microsoft.EntityFrameworkCore;
+global using SharedLibrary.Configrations;
+global using System.Reflection;
+global using AuthServer.Core.Configuration;
+global using AuthServer.Core.Models;
+global using Microsoft.AspNetCore.Authentication.JwtBearer;
+global using Microsoft.AspNetCore.Identity;
+global using Microsoft.Extensions.Options;
